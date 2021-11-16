@@ -1,4 +1,4 @@
-# DynoBits generation script
+# DikPix generation script
 # Intro
 This project was forked from the original BitBirds project by nft-fun. This is the original intro
 
